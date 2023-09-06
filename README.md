@@ -1,4 +1,4 @@
-###👋Hi there, I am Damjan Janeski!👋
+<h1>👋Hi there, I am Damjan Janeski!👋<h1>
 
 <h3>
  I currently dive deeply into the developer's world, enthusiasticly trying to explore, discover and learn new skills and features. </br></h3>
