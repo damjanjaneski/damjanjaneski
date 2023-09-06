@@ -1,4 +1,4 @@
-###👋 Hi there, I’m Damjan Janeski 👋
+##👋 Hi there, I’m Damjan Janeski 👋
 # I currently dive deeply into the developer's world, enthusiasticly trying to explore, discover and learn new skills and features. 
 🔍 I’m interested in expanding my knowlegde, improve and apply everything I've learned till now and simply reach and pass new limits and horizons in the programming's field.
 ‎‍💼 I’m currently working on simple projects, using JavaScript (React), HTML and CSS, but other frameworks also spark my curiosity, so my programming ambitions will not stop here.
