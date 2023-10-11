@@ -1,7 +1,8 @@
 <h1>👋Hi there, I am Damjan Janeski!👋<h1>
 
-
+<h3>
  I currently dive deeply into the developer's world, enthusiasticly trying to explore, discover and learn new skills and features. </br>
+ </h3>
  <h4>
 🔍 I’m interested in expanding my knowlegde, improve and apply everything I've learned till now and simply reach and pass new limits and horizons in the programming's field.</br>
 ‎‍💼 I’m currently working on simple projects, using JavaScript (React), HTML and CSS, but other frameworks also spark my curiosity, so my programming ambitions will not stop here.</br>
