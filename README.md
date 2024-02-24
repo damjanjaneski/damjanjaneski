@@ -10,7 +10,8 @@
 📫 Feel free to contact me on my email: djaneski10@gmail.com</p></br></h4>
 
 ### My projects 🗺️
-1. Calculator: <a href='https://github.com/damjanjaneski/calculator'>Calculator - repository</a> - Simple calculator which uses all basic operations. Reference look: Apple - Iphone calculator. <a href='https://all-cocktails.netlify.app'> Calculator app</a>
+1. Calculator: <a href='https://github.com/damjanjaneski/calculator'>Calculator - repository</a> - Simple calculator which uses all basic operations. Reference look: Apple - Iphone calculator. <br> 
+<a href='https://my-apple-calc.netlify.app'>Calculator app</a>
 2. Currency converter: <a href='https://github.com/damjanjaneski/currency-converter'>Currency Converter - repository</a> - Converter that helps you convert and see the the ratio between any 2 different world's currencies.
 3. Weather App <a href='https://github.com/damjanjaneski/weather-app'>Weather App - repository</a> - Application built for showing the current weather in the searched city.
 4. Cocktail Finder <a href='https://github.com/damjanjaneski/cocktail-finder'> Cocktail Finder - repository</a> - Just type in some cocktail name and all options and variants, will be displayed with all ingredients you need. Perfect assistant for home made cocktails!
