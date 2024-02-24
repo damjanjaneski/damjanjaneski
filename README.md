@@ -12,8 +12,10 @@
 ### My projects 🗺️
 1. Calculator: <a href='https://github.com/damjanjaneski/calculator'>Calculator - repository</a> - Simple calculator which uses all basic operations. Reference look: Apple - Iphone calculator. <br> 
 <a href='https://my-apple-calc.netlify.app'>Calculator - LIVE App</a>
-2. Currency converter: <a href='https://github.com/damjanjaneski/currency-converter'>Currency Converter - repository</a> - Converter that helps you convert and see the the ratio between any 2 different world's currencies.
-3. Weather App <a href='https://github.com/damjanjaneski/weather-app'>Weather App - repository</a> - Application built for showing the current weather in the searched city.
+2. Currency converter: <a href='https://github.com/damjanjaneski/currency-converter'>Currency Converter - repository</a> - Converter that helps you convert and see the the ratio between any 2 different world's currencies. <br>
+<a href='https://my-currency.netlify.app'>Currency Converter - LIVE App</a>
+3. Weather App <a href='https://github.com/damjanjaneski/weather-app'>Weather App - repository</a> - Application built for showing the current weather in the searched city. <br> 
+<a href='https://weather-info-check.netlify.app'>Weather App - LIVE App</a>
 4. Cocktail Finder <a href='https://github.com/damjanjaneski/cocktail-finder'> Cocktail Finder - repository</a> - Just type in some cocktail name and all options and variants, will be displayed with all ingredients you need. Perfect assistant for home made cocktails!
 5. First-to-Twenty <a href='https://github.com/damjanjaneski/first-to-twenty'>First to Twenty - repository</a> - A game where 2 players roll a dice. One can throw until he decides it is enough and add all thrown numbers in that set are collected and added to his score. If number 1 is rolled, all previous thrown numbers in that set are lost and the turn is switched to the other player with same rules. Winner is the first player who collects sum of 20!
 6. Guess the number <a href='https://github.com/damjanjaneski/guess-the-number'>Guess the Number - repository</a> - Secret number is hidden behind the scene. Player's goal is to find that number starting with guess. After the guess, a message will be shown depending if the number is too low or too high, comparing to the secret number, until the player finds the number! <br>
