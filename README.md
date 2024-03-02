@@ -22,7 +22,7 @@
 <a href='https://first-to-twenty.netlify.app'>First to Twenty - LIVE App</a>
 6. Guess the number <a href='https://github.com/damjanjaneski/guess-the-number'>Guess the Number - repository</a> - Secret number is hidden behind the scene. Player's goal is to find that number starting with guess. After the guess, a message will be shown depending if the number is too low or too high, comparing to the secret number, until the player finds the number! <br>
 <a href='https://my-hidden-number.netlify.app'>Guess the Number - LIVE App</a>
-7. Personal library <a href='https://github.com/damjanjaneski/personal-library'>Personal Library</a> - Simple list of books where you can add, delete od preview all the books you have read or want to read in the future (with some already written examples) <br> 
+7. Personal library <a href='https://github.com/damjanjaneski/personal-library'>Personal Library - repository</a> - Simple list of books where you can add, delete od preview all the books you have read or want to read in the future (with some already written examples) <br> 
 <a href='https://own-library.netlify.app'>Personal library - LIVE App</a>
 8. Demo version of <a href="https://github.com/damjanjaneski/own-project"> E-commerce site for food supplements </a> - Test sample, but all functionalities added. Add product to cart, add to wishlist, remove from there, list bestsellers, card components, etc. Made in Next.js! Check it now! -----> https://tummytoxx.netlify.app/ <-----
 
