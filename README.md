@@ -25,4 +25,5 @@
 7. Personal library <a href='https://github.com/damjanjaneski/personal-library'>Personal Library - repository</a> - Simple list of books where you can add, delete od preview all the books you have read or want to read in the future (with some already written examples) <br> 
 <a href='https://own-library.netlify.app'>Personal library - LIVE App</a>
 8. Demo version of <a href="https://github.com/damjanjaneski/own-project"> E-commerce site for food supplements </a> - Test sample, but all functionalities added. Add product to cart, add to wishlist, remove from there, list bestsellers, card components, etc. Made in Next.js! Check it now! -----> https://tummytoxx.netlify.app/ <-----
+9. Portfolio site <a href='https://github.com/damjanjaneski/portfolio'> Personal portfolio - reposiotry</a> - Short bio about me, my skillset, projects and resume, all these gathered in one site, designed with Bootstrap. React driven, responsive for all devices.
 
